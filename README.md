@@ -2,7 +2,7 @@
 
 Website for Two Mile Run Club (TMR), an Atlanta running community.
 
-**Live at:** https://twomilerunclub.github.io/atl/
+**Live at:** https://twomilerunclub.github.io/test-website/
 
 ## What's here
 
